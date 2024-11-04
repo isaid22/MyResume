@@ -4,13 +4,21 @@ Generative AI/ML Software Developer as a trusted partner to enable customer succ
 
 HIGHLIGHTS
 •	Proven experience as ML developer in building and architecting software with customers
+
 •	Own and drive full stack transition from data science PoC to large-scale virtualization and deployment of generative AI models (LSTM, CNN, DNN, RNN, GAN, AutoEncoders, deep learning, BERT transformers, generative AI, GPT, Llama, LLM, Stable Diffusion)
+
 •	Expert knowledge and experience in deep earning to Generative AI model development and deployment cycles. 
+
 •	Growth mindset and self starter with multiple professional certificates including CUDA C++ certification.
+
 •	Hands-on fast learner with can-do attitude, with two Tensorflow+GCP books
+
 •	Hands-on experience with NVIDIA GPU (ie, A10G, A100) and Tools (Nsights, Triton, CUDA, TensorRT) and AWS Trainium, deep understanding of GPU technologies.
+
 •	Expertise in optimization of deep learning, transformers, LLM and generative AI models for public cloud and distributed architecture
+
 •	Experience with major Cloud platforms (AWS, Azure, GCP).
+
 •	Author, public speaker, mentor and open source ecosystem contributor in building infrastructure and code samples to enable generative AI workloads
 
 
