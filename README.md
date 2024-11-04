@@ -23,6 +23,7 @@ HIGHLIGHTS
 
 
 WORK EXPERIENCES
+
 Amazon AWS		ML Accelerator Development Engineer, AI Architect	7/2021 – 3/2024
 
 •	Lead and partner with customer to prototype, develop and deploy generative AI solutions using AWS Trainium and Inferentia accelerators for wide range of generative AI models (deep learning, BERT transformers, generative AI, GPT, Llama, LLM, Stable Diffusion) at scale. 
@@ -60,6 +61,7 @@ Microsoft	ML Engineer, AI Architect		11/2018 – 07/2021
 
 
 AT&T	Principal Data Scientist		03/2014 – 10/2018
+
 •	Adopted deep learning (LSTM, CNN) techniques as an innovative solution to solve customer 
 touchpoint prediction problem and enable data driven conversion funnel as a service for advertisers.
 
