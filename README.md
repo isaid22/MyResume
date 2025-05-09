@@ -24,7 +24,7 @@ Generative AI/ML Software Developer as a trusted partner to enable customer succ
 
 ## WORK EXPERIENCES
 
-### J.P.Morgan      Vice President, Lead AI/ML Engineering. 4/2025 - Present
+### J.P.Morgan      - Vice President, Lead AI/ML Engineering. 4/2025 - Present
 
 •	Lead end-to-end generative AI application development and scalable deployment in production.
 
@@ -40,7 +40,7 @@ Generative AI/ML Software Developer as a trusted partner to enable customer succ
 
 
 
-### Amazon AWS		ML Accelerator Development Engineer, AI Architect	7/2021 – 3/2024
+### Amazon AWS		- ML Accelerator Development Engineer, AI Architect	7/2021 – 3/2024
 
 •	Lead and partner with customer to prototype, develop and deploy generative AI solutions using AWS Trainium and Inferentia accelerators for wide range of generative AI models (deep learning, BERT transformers, generative AI, GPT, Llama, LLM, Stable Diffusion) at scale. 
 
@@ -59,7 +59,7 @@ Generative AI/ML Software Developer as a trusted partner to enable customer succ
 •	Stay at the forefront of industry trends and emerging technologies, integrating the latest advancements into ML ecosystem.
 
 
-### Microsoft	ML Engineer, AI Architect		11/2018 – 07/2021
+### Microsoft	- ML Engineer, AI Architect		11/2018 – 07/2021
 
 •	Collaborate with customer to build and deploy deep learning ML models utilizing TensorFlow, Spark, AzureML services and Azure Kubernetes Service.
 
@@ -76,7 +76,7 @@ Generative AI/ML Software Developer as a trusted partner to enable customer succ
 •	Serve as reviewer for MSJAR.
 
 
-### AT&T	Principal Data Scientist		03/2014 – 10/2018
+### AT&T	- Principal Data Scientist		03/2014 – 10/2018
 
 •	Adopted deep learning (LSTM, CNN) techniques as an innovative solution to solve customer 
 touchpoint prediction problem and enable data driven conversion funnel as a service for advertisers.
