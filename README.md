@@ -26,17 +26,18 @@ Generative AI/ML Software Developer as a trusted partner to enable customer succ
 
 ### J.P.Morgan      - Vice President, Lead AI/ML Engineering. 4/2025 - Present
 
-•	Lead end-to-end generative AI application development and scalable deployment in production.
+- Lead the end-to-end design, development, and production deployment of generative AI applications, ensuring scalability, reliability, and alignment with long-term business goals.  
 
-•	Design progressive delivery strategy and implement controlled rollout and A/B testing.
+- Define and execute progressive delivery strategies, including controlled rollouts and A/B testing frameworks to deliver measurable product impact.  
 
-•	Oversee and manage deployment process of LLM (MPT, Falcon) application by infrastructure-as-code in CI/CD pipelines.
+- Manage infrastructure-as-code pipelines and CI/CD workflows to enable secure, repeatable deployment of LLM applications (e.g., MPT, Falcon) in production environments.  
 
-•	Own and drive model governance requirement and data usage reviews to ensure compliance for AI safety guardrails.
+- Own model governance processes, including data usage audits and compliance reviews, to ensure adherence to AI safety standards and regulatory requirements.  
 
-•	Ensure AI/ML application aligned with business goals and compliance for safety, risk mitigation and exception handling in generative AI applications for production.
+- Champion cross-functional collaboration across engineering, product, compliance, and risk to deliver robust, enterprise-grade AI solutions with built-in exception handling.  
 
-•	Drive cross functional team collaboration, mentoring and knowledge sharing, foster experimentation and discovery.
+- Mentor junior engineers, cultivate a culture of experimentation and continuous learning, and promote team effectiveness through technical leadership and knowledge sharing.
+
 
 
 
@@ -76,7 +77,7 @@ Generative AI/ML Software Developer as a trusted partner to enable customer succ
 •	Serve as reviewer for MSJAR.
 
 
-### AT&T	- Principal Data Scientist		03/2014 – 10/2018
+### AT&T	-Principal Data Scientist		03/2014 – 10/2018
 
 •	Adopted deep learning (LSTM, CNN) techniques as an innovative solution to solve customer 
 touchpoint prediction problem and enable data driven conversion funnel as a service for advertisers.
