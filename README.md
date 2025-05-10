@@ -23,7 +23,7 @@ Innovative leader in Generative AI/ML Engineering to enable success at scale
 ### J.P.Morgan      - Vice President, Lead AI/ML Engineering. 4/2025 - Present
 
 - Lead the design and deployment of generative AI applications in compliance-heavy production environments using LLMSuite API and infrastructure-as-code pipelines.
-- Architect end-to-end ML solutions with progressive delivery strategies (A/B testing, canary deployments) for real-time engagement optimization and lead optimization.
+- Architect end-to-end ML solutions with progressive delivery strategies (A/B testing, canary deployments) for real-time campaign audience measurement, engagement optimization and lead optimization.
 - Serve as an Application Owner, define model governance, data usage controls, and guardrails to ensure safety, risk mitigation, compliance, and audit readiness in generative AI deployments.
 - Collaborate cross-functionally with business and network engineering teams to automate decision-making workflows using ML.
 - Mentor junior engineers, establish knowledge sharing, and drive experimentation culture across the firm’s applied AI teams.
