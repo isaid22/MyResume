@@ -1,99 +1,63 @@
 # MyResume
 
-Generative AI/ML Software Developer as a trusted partner to enable customer success at scale
+Innovative leader in Generative AI/ML Engineering to enable success at scale
 
 ## HIGHLIGHTS
-•	Proven experience as GenAI engineering leader in building and architecting software with customers
+- Proven leader in designing, deploying, and scaling AI/ML solutions across cloud platforms and distributed infrastructure in highly regulated enterprise environments.
+- Deep expertise in LLMs, generative AI, and transformer models with hands-on optimization using XLA, TensorRT, and custom silicon accelerators.
+- Strong track record integrating AI/ML into production systems using infrastructure-as-code, CI/CD, Kubernetes, and model monitoring frameworks.
+- Trusted advisor to stakeholders across engineering, product, and compliance—bridging technical depth with clear communication and business alignment.
+- Experienced in enforcing model governance, risk controls, and ethical AI principles for safe, auditable ML deployment at scale.
+- Active thought leader: published author, speaker, and mentor in the AI community; contributor to TensorFlow ecosystem and enterprise GenAI enablement.
 
-•	Own and drive full stack transition from data science PoC to large-scale virtualization and deployment of generative AI models (LSTM, CNN, DNN, RNN, GAN, AutoEncoders, deep learning, BERT transformers, generative AI, GPT, Llama, LLM, Stable Diffusion)
+## CORE SKILLS
 
-•	Expert knowledge and experience in deep earning to Generative AI model development and deployment cycles. 
-
-•	Growth mindset and self starter with multiple professional certificates including CUDA C++ certification.
-
-•	Hands-on experience with NVIDIA GPU (ie, A10G, A100) and Tools (Nsights, Triton, CUDA, TensorRT) and AWS Trainium, deep understanding of GPU technologies.
-
-•	Expertise in optimization of deep learning, transformers, LLM and generative AI models for public cloud and distributed architecture
-
-•	Experience with major Cloud platforms (AWS, Azure, GCP).
-
-•	Author, public speaker, mentor and open source ecosystem contributor in building infrastructure and code samples to enable generative AI workloads
-
+- **Programming & ML**: Python, C++, Spark, TensorFlow, PyTorch, JAX, Ray, HuggingFace, Scikit-learn, CUDA, TensorRT, XLA.
+- **AI/ML Ops**: FastAPI, Triton Inference Server, TensorFlow Serving, Docker, Kubernetes, CI/CD, MLflow.
+- **Cloud Platforms**: Databriocks, AWS (SageMaker, Glue, DynamoDB, EventBridge, S3, Step Functions, Lambda, ELS, ECS), Azure (AzureML, AKS), GCP.
+- **Data & DevOps**: Apache Kafka, Terraform, Airflow, SQL, NoSQL, Linux, GitHub, BitBucket, Jules, Spinnaker. 
+- **Specializations**: LLM, Generative AI, RAG, AIOps, Model Governance, Compliance, Network Automation.
 
 ## WORK EXPERIENCES
 
 ### J.P.Morgan      - Vice President, Lead AI/ML Engineering. 4/2025 - Present
 
-- Lead the end-to-end design, development, and production deployment of generative AI applications, ensuring scalability, reliability, and alignment with long-term business goals.  
-
-- Define and execute progressive delivery strategies, including controlled rollouts and A/B testing frameworks to deliver measurable product impact.  
-
-- Manage infrastructure-as-code pipelines and CI/CD workflows to enable secure, repeatable deployment of LLM applications (e.g., MPT, Falcon) in production environments.  
-
-- Own model governance processes, including data usage audits and compliance reviews, to ensure adherence to AI safety standards and regulatory requirements.  
-
-- Champion cross-functional collaboration across engineering, product, compliance, and risk to deliver robust, enterprise-grade AI solutions with built-in exception handling.  
-
-- Mentor junior engineers, cultivate a culture of experimentation and continuous learning, and promote team effectiveness through technical leadership and knowledge sharing.
+- Lead the design and deployment of generative AI applications in compliance-heavy production environments using LLMSuite API and infrastructure-as-code pipelines.
+- Architect end-to-end ML solutions with progressive delivery strategies (A/B testing, canary deployments) for real-time engagement optimization and lead optimization.
+- Serve as an Application Owner, define model governance, data usage controls, and guardrails to ensure safety, risk mitigation, compliance, and audit readiness in generative AI deployments.
+- Collaborate cross-functionally with business and network engineering teams to automate decision-making workflows using ML.
+- Mentor junior engineers, establish knowledge sharing, and drive experimentation culture across the firm’s applied AI teams.
 
 
 
 
 ### Amazon AWS		- ML Accelerator Development Engineer, AI Architect	7/2021 – 3/2024
 
-•	Lead and partner with customer to prototype, develop and deploy generative AI solutions using AWS Trainium and Inferentia accelerators for wide range of generative AI models (deep learning, BERT transformers, generative AI, GPT, Llama, LLM, Stable Diffusion) at scale. 
-
-•	Collaborate in cross-functional teams and build AI/ML solutions on AWS services, HPC/ParallelCluster, Docker containers, and Kubernetes orchestration.
-
-•	Lead and drive insight discovery in ML model profiling analysis using NVIDIA GPUs (A10G, A100G) and Nsights, Triton, and TensorRT.
-
-•	Collaborate with customers and stakeholders on requirement and features, ensure success criteria, own customer feedback channels and ensure timely resolutions.
-
-•	Drive the architecture and implementation of model deployment strategies, for high availability and scalability
-
-•	 Collaborate with QA team to improve CI/CD pipelines for seamless model deployment, monitoring, and ongoing optimization. 
-
-•	Establish performance benchmarks and optimize models and infrastructure for maximum efficiency, scalability, and reliability. 
-
-•	Stay at the forefront of industry trends and emerging technologies, integrating the latest advancements into ML ecosystem.
+- Designed and delivered AI/ML pipelines for enterprise clients across NLP, image generation, and time-series models using GPU/XLA, Neuron SDK, and AWS ML stack (SageMaker, ParallelCluster, Docker, EKS).
+- Partnered with network and silicon engineering teams to benchmark model performance, optimize chip utilization, and provide insights from profiling tools like Nsight and Triton.
+- Developed and deployed ML workflows using Kubernetes and CI/CD pipelines for scalable, resilient applications in production.
+- Authored whitepapers, tutorials, and spoke at conferences to support adoption of AWS’s AI accelerators and distributed ML tooling.
 
 
 ### Microsoft	- ML Engineer, AI Architect		11/2018 – 07/2021
 
-•	Collaborate with customer to build and deploy deep learning ML models utilizing TensorFlow, Spark, AzureML services and Azure Kubernetes Service.
-
-•	Collaborate with WW AI Champs to draft and publish the first Cloud Adoption Framework – Machine Learning Security best practice for machine learning security in enterprise settings.
-
-•	Conduct literature research, collaborate with WW SMEs and PMs on solving customer's data science problems for specialized use case.
-
-•	Partner with customer engineering team to develop machine learning solutions and architecture pipeline for data transformation and model deployment in Azure.
-
-•	Design PoC specific to customer use cases, develop solution prototype and up skill customer team via hands-on workshop for realizing solution value.
-
-•	Provide technical leadership as a trusted data & AI adviser to customer teams of data scientists, engineers, and analysts, help them select and adopt feasible techniques and scalable solutions for specific business use cases.
-
-•	Serve as reviewer for MSJAR.
+- Delivered scalable ML solutions for financial, manufacturing, and healthcare clients using AzureML, distributed TensorFlow, AKS, and Spark.
+- Led secure ML architecture design aligned with enterprise data governance policies; co-authored Cloud Adoption Framework for ML security.
+- Designed PoCs with real-time data ingestion, model inference pipelines, and hands-on customer enablement workshops.
+- Advised data scientists and engineers on selecting scalable tools and best practices for cloud-based ML model lifecycle.
 
 
 ### AT&T	-Principal Data Scientist		03/2014 – 10/2018
 
-•	Adopted deep learning (LSTM, CNN) techniques as an innovative solution to solve customer 
+- Adopted deep learning techniques as an innovative solution to solve customer 
 touchpoint prediction problem and enable data driven conversion funnel as a service for advertisers.
-
-•	Established best-practice strategy for data scientists, engineers and process owners to design scalable and production grade solutions in agile development environment.
-
-•	Translated user stories and business requirements to hypothesis for AI/ML models and designed end-to-end model solution architecture.
-
-•	Collaborated with industry thought leaders to evaluate data science platforms and vendors.
-
-•	Led, mentored, and developed strong data science and engineering talent in cross functional team environment.
-
-
-## SOFTWARE AND PLATFORM
-•	AWS, GCP, Azure, Databricks, Docker Container ecosystem, Kubernetes orchestration, MLOps, HPC, PyTorch, TensorFlow, TensorRT, CUDA, Triton Inferencing Server, FastAPI, TensorFlow Serving, AWS Neuron SDK, distributed ML training and inferencing, C, C++, C#, Python and packages, Java, Javascript, Spark, Hadoop, Big Data ETL, Hive, SQL, R, Matlab.
+- Established best-practice strategy for data scientists, engineers and process owners to design scalable and production grade solutions in agile development environment.
+- Translated user stories and business requirements to hypothesis for AI/ML models and designed end-to-end model solution architecture.
+- Collaborated with industry thought leaders to evaluate data science platforms and vendors.
+- Led, mentored, and developed strong data science and engineering talent in cross functional team environment.
 
 ## EDUCATION
-Ph.D., Computational Biophysics, University of Texas Southwestern Medical Center, Dallas TX. Dissertation: Human brain's neural network and synchronization activities (https://pubmed.ncbi.nlm.nih.gov/23583747/)
+Ph.D., Physics, University of Texas Southwestern Medical Center, Dallas TX. Dissertation: Human brain's neural network and synchronization activities (https://pubmed.ncbi.nlm.nih.gov/23583747/)
 
 B.S., Electrical Engineering, University of Texas at Arlington, Arlington TX.
 
