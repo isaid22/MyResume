@@ -14,7 +14,7 @@ Innovative leader in Generative AI/ML Engineering to enable success at scale
 
 - **Programming & ML**: Python, C++, Spark, TensorFlow, PyTorch, JAX, Ray, HuggingFace, Scikit-learn, CUDA, TensorRT, XLA.
 - **AI/ML Ops**: FastAPI, Triton Inference Server, TensorFlow Serving, Docker, Kubernetes, CI/CD, MLflow.
-- **Cloud Platforms**: Databriocks, AWS (SageMaker, Glue, DynamoDB, EventBridge, S3, Step Functions, Lambda, ELS, ECS), Azure (AzureML, AKS), GCP.
+- **Cloud Platforms**: Databriocks, AWS (SageMaker, Glue, DynamoDB, EventBridge, S3, Step Functions, Lambda, EKS, ECS), Azure (AzureML, AKS), GCP.
 - **Data & DevOps**: Apache Kafka, Terraform, Airflow, SQL, NoSQL, Linux, GitHub, BitBucket, Jules, Spinnaker. 
 - **Specializations**: LLM, Generative AI, RAG, AIOps, Model Governance, Compliance, Network Automation.
 
